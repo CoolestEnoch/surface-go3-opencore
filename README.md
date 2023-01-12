@@ -29,11 +29,10 @@ Install hackintosh into surface go 2
 - [ ] Stylus doesn't working
 - [ ] Battery management doesn't working
 
-## Current progress
-Things will work
-- [ ] Keyboard
-- [ ] Touch screen
-- [ ] USB
+## Things will work
+- [x] Keyboard
+- [x] Touch screen
+- [x] USB
 
 ## Things won't work
 - [ ] Front & rear camera (won't work)
