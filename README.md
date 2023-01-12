@@ -2,8 +2,8 @@ EFI for Microsoft Surface Go 3
 
 ***Warning: Still in early development!!***
 
-# surface-go3-hackintosh
-Install hackintosh into surface go 2
+# Surface Go3 Ventura
+Install Ventura into surface go 3
 
 ## Computer Spec(filling)
 
