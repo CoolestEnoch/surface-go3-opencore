@@ -26,8 +26,6 @@ Install Ventura into surface go 3
 
 ## Todo list
 - [ ] Trackpad doesn't working
-- [ ] Stylus doesn't working
-- [ ] Battery management doesn't working
 
 ## Things will work
 - [x] Keyboard
@@ -38,6 +36,8 @@ Install Ventura into surface go 3
 - [ ] Front & rear camera (won't work)
 - [ ] Ir camera (won't work)
 - [ ] NFC (won't work)
+- [ ] Stylus doesn't working
+- [ ] Battery management doesn't working
 
 
 ## Related repo
