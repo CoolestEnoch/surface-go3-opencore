@@ -25,12 +25,18 @@ Install Ventura into surface go 3
 |Battery| ? |
 
 ## Todo list
-- [ ] Trackpad doesn't working
+- [ ] Trackpad
+- [ ] Shutting down
 
 ## Things will work
 - [x] Keyboard
 - [x] Touch screen
 - [x] USB
+
+## Things unknown work or not
+- [ ] Microphone
+- [ ] Charging
+- [ ] 
 
 ## Things won't work
 - [ ] Front & rear camera (won't work)
