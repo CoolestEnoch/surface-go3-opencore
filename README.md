@@ -1,6 +1,6 @@
 EFI for Microsoft Surface Go 3
 
-***Warning: Still in early development!!***
+Another [EFI](https://github.com/CoolestEnoch/surface-go3-opencore-kingo132-base)
 
 # Surface Go3 Ventura
 Install Ventura into surface go 3
