@@ -49,7 +49,7 @@ EFI
 > Bluetooth (Only tested for connecting with BT-speaker, BT-keyboard&mouse)
 
 
-**What's doesn't work with *trackPad.plist*:**
+**What's doesn't work with *touchScreen.plist*:**
 > **Trackpad**
 > Stylus
 > Trackpad gesture (But you are able to use gestures on touchscreen)
@@ -61,7 +61,7 @@ EFI
 > Universal control
 > Airdrop
 
-**What's working with *trackPad.plist*:**
+**What's working with *touchScreen.plist*:**
 > **Touch screen (*WITH GESTURE SUPPORT*, but it randomly failure while you are using)**
 > System will crash while you plug or unplug surface keyboard
 > Microphone
@@ -124,7 +124,7 @@ EFI
  > 蓝牙（仅测试过蓝牙音箱和蓝牙键鼠）
 
 
- ***trackPad.plist*的bug：**
+ ***touchScreen.plist*的bug：**
  > **触控板**
  > 插拔surface键盘的时候系统会崩溃
  > 手写笔
@@ -137,7 +137,7 @@ EFI
  > 通用控制
  > 隔空投送
 
- ***trackPad.plist*可用的功能：**
+ ***touchScreen.plist*可用的功能：**
  > **触摸屏（*有手势支持*，但它在您使用时随机失效）**
  > 麦克风
  > Siri
