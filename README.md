@@ -21,10 +21,11 @@ Big Sur (Untested. If you want to run Big Sur on Surface Go 3, please visit [thi
 - [x] Touch screen
 - [x] USB
 - [x] Stylus
+- [x] Dual in-boxed speaker
 - [x] Microphone
 
 ## Things unknown work or not
-- [ ] Charging
+- [ ] 3.5mm audio jack
 
 ## Things won't work
 - [ ] Front & rear camera
