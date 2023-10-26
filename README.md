@@ -18,6 +18,7 @@ Big Sur (Untested. If you want to run Big Sur on Surface Go 3, please visit [thi
 
 ## Things will work
 - [x] Keyboard
+- [x] Trackpad gesture
 - [x] Touch screen
 - [x] USB
 - [x] Stylus
@@ -25,9 +26,10 @@ Big Sur (Untested. If you want to run Big Sur on Surface Go 3, please visit [thi
 - [x] Microphone
 
 ## Things unknown work or not
-- [ ] 3.5mm audio jack
+- [ ] 3.5mm audio jack (I forgot to bring my wired headphones to school so I can't test it)
 
 ## Things won't work
+- [ ] Volume up & down key by the side of device
 - [ ] Front & rear camera
 - [ ] Ir camera
 - [ ] NFC
