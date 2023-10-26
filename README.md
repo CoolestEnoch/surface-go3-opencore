@@ -26,26 +26,29 @@ Install Ventura into surface go 3
 |NFC| ? |
 |Battery| ? |
 
-## Todo list
-- [ ] Trackpad
-- [ ] Shutting down
+
+## Supported versions of MacOS
+Sonoma
+Ventura
+Monterey (Untested)
+Big Sur (Untested. If you want to run Big Sur on Surface Go 3, please visit [this](https://github.com/djmanri3/OpenCoreBigSur_Microsoft_Surface_Go_3).)
+
 
 ## Things will work
 - [x] Keyboard
 - [x] Touch screen
 - [x] USB
+- [x] Stylus
+- [x] Microphone
 
 ## Things unknown work or not
-- [ ] Microphone
 - [ ] Charging
-- [ ] 
 
 ## Things won't work
-- [ ] Front & rear camera (won't work)
-- [ ] Ir camera (won't work)
-- [ ] NFC (won't work)
-- [ ] Stylus doesn't working
-- [ ] Battery management doesn't working
+- [ ] Front & rear camera
+- [ ] Ir camera
+- [ ] NFC
+- [ ] Battery management
 
 
 ## Related repo
