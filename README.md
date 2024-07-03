@@ -18,7 +18,7 @@ Big Sur (Untested. If you want to run Big Sur on Surface Go 3, please visit [thi
 
 ## Things will work
 - [x] Keyboard
-- [x] Trackpad gesture
+- [x] Trackpad gesture (Only works in Sonoma)
 - [x] Touch screen
 - [x] USB
 - [x] Stylus
