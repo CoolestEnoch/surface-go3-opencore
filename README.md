@@ -5,6 +5,10 @@ Another [EFI](https://github.com/CoolestEnoch/surface-go3-opencore-kingo-base)
 # [⚠️⚠️***READ ME BEFORE INSTALL***⚠️⚠️](BeforeInstall.md)
 
 
+This project will be suspend upgrading till Jan 1st 2025 due to I'll have a well-prepared [exam](https://yz.chsi.com.cn/kyzx/kydt/202409/20240920/2293322102.html) so I will answer all messages after that time ;).
+
+
+
 # Surface Go3 Opencore
 Install MacOS into surface go 3
 
